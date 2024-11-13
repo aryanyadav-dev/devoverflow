@@ -5,7 +5,7 @@
 
 > ~
 >
-> <h6 align="center">Welcome to DevOverflow, a full-stack application built with Next.js 14 and Server Actions, featuring an array of powerful functionalities to enhance your developer community experience. DevOverflow is designed to be a comprehensive platform for developers to ask questions, share knowledge, and engage in a thriving community.</h6>
+> <h4 align="center">Welcome to DevOverflow, a full-stack application built with Next.js 14 and Server Actions, featuring an array of powerful functionalities to enhance your developer community experience. DevOverflow is designed to be a comprehensive platform for developers to ask questions, share knowledge, and engage in a thriving community.</h4>
 
 > <p align="center">
 >   <img src="https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js&logoColor=white" />
