@@ -3,6 +3,8 @@
 <div align="center">
   <h1 align="center">DevOverflow</h1>
 
+  <img width="600" alt="Screenshot 2024-11-14 at 7 58 12 PM" src="https://github.com/user-attachments/assets/58de1bf2-206e-4d9b-9a91-ce7445a75e67">
+
  <h4 align="center">Welcome to DevOverflow, a full-stack application built with Next.js 14 and Server Actions, featuring an array of powerful functionalities to enhance your developer community experience. DevOverflow is designed to be a comprehensive platform for developers to ask questions, share knowledge, and engage in a thriving community.</h4>
 
  <p align="center">
